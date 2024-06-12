@@ -6,6 +6,7 @@ Put your openai_key in the constants.py
 
 To run the file, 'streamlit run main.py'
 
+This is the initial UI of the application. It has a textbox which take the Celebrity name as input
 ![Screenshot 2024-06-12 154916](https://github.com/Shreya-khandelwal/Celebrity_Search_Application/assets/42573000/c43f8387-a47d-4d60-92a9-c5d26ee51b85)
 
 
